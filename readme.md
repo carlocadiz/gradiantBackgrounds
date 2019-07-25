@@ -1,1 +1,1 @@
-App to pick and gradiant backgrounds. Exercise from Udemy course The Complete Web Developer 2019: Zero to Mastery.
+App to pick and display gradient backgrounds. Exercise from Udemy course The Complete Web Developer 2019: Zero to Mastery.
